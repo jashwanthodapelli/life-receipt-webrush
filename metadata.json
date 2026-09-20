@@ -1,0 +1,8 @@
+{
+  "name": "LIFE//RECEIPT Decoded",
+  "description": "Your digital life, decoded. Transform raw receipts into connections, patterns, life chapters, and an immersive data story.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
